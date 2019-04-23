@@ -1,3 +1,7 @@
+body{
+  background-color: #13eef2;
+  font-family: sans-serif;
+}
 h1{
   text-align: center;
   color: red;
@@ -8,9 +12,37 @@ h2{
   text-align: center;
 color: blue;
 }
+.projects{
+  color: white;
+  background-color: grey;
+  padding: 12px;
+  border-radius: 8px 8px 8px 8px;
+}
 .about{
   color:white;
   background-color: grey;
   padding:10px;
   border-radius: 8px 8px 8px 8px;
+  margin-top: 40px;
+}
+.why{
+  color: white;
+  background-color: grey;
+  padding: 10px;
+  border-radius: 8px 8px 8px 8px;
+  margin-top: 40px;
+}
+.hobbies{
+  color: white;
+  background-color: grey;
+  padding: 10px;
+  border-radius: 8px 8px 8px 8px;
+  margin-top: 40px;
+}
+.skills{
+  color: white;
+  background-color: grey;
+  padding: 10px;
+  border-radius: 8px 8px 8px 8px;
+  margin-top: 40px;
 }
