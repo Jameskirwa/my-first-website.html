@@ -2,4 +2,15 @@ h1{
   text-align: center;
   color: red;
   font-style: normal;
+  text-shadow: 3px 4px 1px blue;
+}
+h2{
+  text-align: center;
+color: blue;
+}
+.about{
+  color:white;
+  background-color: grey;
+  padding:10px;
+  border-radius: 8px 8px 8px 8px;
 }
